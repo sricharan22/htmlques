@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Is Python case sensitive when dealing with identifiers?",
+        "a": "no",
+        "b": "yes",
+        "c": "machine dependent",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is not a keyword?",
+        "a": "eval",
+        "b": "assert",
+        "c": "nonlocal",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is an invalid statement?",
+        "a": "abc = 1,000,000",
+        "b": "a b c = 1000 2000 3000",
+        "c": "a,b,c = 1000, 2000, 3000",
+        "answer": "B"
+    },
+    {
+        "question": "Which is the correct operator for power(x^y)?",
+        "a": "X^y",
+        "b": "X^^y",
+        "c": "X**y",
+        "answer": "C"
+    },
+    {
+        "question": "Which one of these is floor division?",
+        "a": "//",
+        "b": "/",
+        "c": "%",
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print 0.1 + 0.2 == 0.3?",
+        "a": "True",
+        "b": "Error",
+        "c": "False",
+        "answer": "C"
+    },
+    {
+        "question": "Which of these in not a core data type?",
+        "a": "Lists",
+        "b": "Class",
+        "c": "Dictionary",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following will run without errors?",
+        "a": "round(45.8)",
+        "b": "round(6352.898,2,5)",
+        "c": "round()",
+        "answer": "A"
+    },
+    {
+        "question": "In order to store values in terms of key and value we use what core data type.",
+        "a": "list",
+        "b": "tuple",
+        "c": "dictionary",
+        "answer": "C"
+    },
+    {
+        "question": "What is the type of inf?",
+        "a": "Float",
+        "b": "Int",
+        "c": "Char",
+        "answer": "A"
+    }
+]

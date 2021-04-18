@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Which of the below is not a subinterface of Queue?",
+        "a": "BlockingQueue",
+        "b": "BlockingEnque",
+        "c": "TransferQueue",
+        "answer": "B"
+    },
+    {
+        "question": "What is the remaining capacity of BlockingQueue whose intrinsic capacity is not defined?",
+        "a": "Integer.MAX_VALUE",
+        "b": "BigDecimal.MAX_VALUE",
+        "c": "Integer.INFINITY",
+        "answer": "A"
+    },
+    {
+        "question": "What is the difference between Queue and Stack?",
+        "a": "Queue is LIFO; Stack is FIFO",
+        "b": "Stack is LIFO; Queue is FIFO",
+        "c": "Stack and Queue is FIFO",
+        "answer": "B"
+    },
+    {
+        "question": "What are the use of front and rear pointers in CircularQueue implementation?",
+        "a": "Front pointer points to first element; rear pointer points to the last element",
+        "b": "Rear pointer points to first element; front pointer points to the last element",
+        "c": "Front and read pointers point to the first element",
+        "answer": "C"
+    },
+    {
+        "question": "What is the correct method used to insert and delete items from the queue?",
+        "a": "enqueue and dequeue",
+        "b": "push and pop",
+        "c": "enqueue and peek",
+        "answer": "A"
+    },
+    {
+        "question": "Which data structure is used in Breadth First Traversal of a graph?",
+        "a": "Tree",
+        "b": "Stack",
+        "c": "Queue",
+        "answer": "C"
+    },
+    {
+        "question": "Where does a new element be inserted in linked list implementation of a queue?",
+        "a": "Head of list",
+        "b": "Tail of list",
+        "c": "At the centre of list",
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is not OOPS concept in Java?",
+        "a": "Compilation",
+        "b": "Inheritance",
+        "c": "Polymorphism",
+        "answer": "A"
+    },
+    {
+        "question": "Which concept of Java is a way of converting real world objects in terms of class?",
+        "a": "Polymorphism",
+        "b": "Encapsulation",
+        "c": "Abstraction",
+        "answer": "C"
+    },
+    {
+        "question": "Which concept of Java is achieved by combining methods and attribute into a class?",
+        "a": "Encapsulation",
+        "b": "Inheritance",
+        "c": "Polymorphism",
+        "answer": "A"
+    }
+]
